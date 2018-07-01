@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/dao/IProductDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/domain/Product.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/domain/Product.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/test/Demo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/test/Demo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/test/Demo2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cn/sm1234/test/Demo3.java" charset="GBK" />
+  </component>
+</project>
